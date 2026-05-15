@@ -1,4 +1,4 @@
-# 
+# Polymarket vip Automation Script: sentiment-analysis & smart-contract-integration is the best Polymarket automation-script, featuring sentiment-analysis and
 
 
 
